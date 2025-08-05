@@ -70,15 +70,6 @@ Includes error handling, feature flags (`-n`, `-s`, etc.), and intentional buffe
 
 ---
 
-### 🎯 Goals for 2025
-
-- ✨ Launch an LLM-powered **generative agents sandbox** with planning, memory, and reflection
-- 🎨 Build a ControlNet-powered **interactive image generation playground**
-- 📖 Perform independent research with detailed technical write-ups.
-- 🤝 Contribute to open-source ML tools, visualizers, and education-friendly repos
-
----
-
 ### 💬 Fun Fact
 
 > I built a microkernel, an algorithm visualizer, and a custom ControlNet model, why not?  
