@@ -78,8 +78,6 @@ Includes error handling, feature flags (`-n`, `-s`, etc.), and intentional buffe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderback&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderback&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
