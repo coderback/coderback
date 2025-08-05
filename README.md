@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Timothy Ojebiyi</h1>
+<h1 align="center">Hey 👋 I'm Timothy</h1>
 <h3 align="center">CS Graduate • Software Engineer • Aspiring ML Researcher</h3>
 
 <p align="center">
