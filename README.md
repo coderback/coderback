@@ -51,22 +51,6 @@ I'm a **Computer Science graduate from UWE Bristol**, passionate about building 
   <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderback&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 💬 Fun Fact
-
-> I built a microkernel, an algorithm visualizer, and a custom ControlNet model, why not?  
-If it's hard to build and fun to debug, you'll probably find me doing it.
-
 ---
 
 <p align="center">
