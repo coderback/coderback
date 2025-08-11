@@ -20,27 +20,6 @@ I'm a **Computer Science graduate from UWE Bristol**, passionate about building 
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 [Algorender](https://github.com/coderback/Algorender)
-> An interactive visualizer for algorithms and data structures (React, Next.js, Tailwind)  
-Live-coded demos of sorting, graphs, recursion, DP, and more—made for learners.
-
-#### 🔹 [ColonoScan](https://github.com/coderback/colonscan)
-> An AI platform for real-time colonoscopy analysis (FastAPI, PyTorch, Gradio, Docker)  
-Includes microservices for classification and segmentation of WSI slides and video frames.
-
-#### 🔹 [TobiOS](https://github.com/coderback/TobiOS)
-> A toy operating system from scratch (C++)  
-Implements process scheduling, virtual memory, file system, shell, and logging.
-
-#### 🔹 [Custom-CAT in C](https://github.com/coderback/Custom-CAT-Implementation-in-C)
-> A safe and extensible re-implementation of the `cat` command in C  
-Includes error handling, feature flags (`-n`, `-s`, etc.), and intentional buffer overflow learning.
-
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="left">
