@@ -11,12 +11,12 @@
 
 ### 🧠 About Me
 
-I'm a **Computer Science graduate from UWE Bristol**, passionate about building useful systems powered by **artificial intelligence** and **developer-centred design**. I thrive at the intersection of **machine learning**, **systems programming**, and **web-based interactivity**—building everything from tiny OS kernels to generative visual tools.
+I'm a **Computer Science graduate from UWE Bristol**, passionate about building useful systems powered by **artificial intelligence** and **developer-centred design**. I thrive at the intersection of **machine learning**, **systems design**, and **problem solving**—building everything from tiny OS kernels to fine-tuning LLMs.
 
-- 🔭 Currently building: **LLM-based agents**, **Custom ControlNet**, and **Interactive learning tools**
-- 📚 Deep dive interests: **Multi-modal AI**, **Explainable ML**, **Agent memory + reflection**, **Computer Vision**, **Quantum ML**
-- 🛠️ I enjoy learning through building projects that make complex ideas fun and interactive
-- 🌍 Always exploring how to apply tech to **Learning**, **productivity**, and **accessibility**
+- 🔭 Currently building: **Agentic web compliance SaaS**, **graph embedding engine for financial-crime/risk modelling**, and **semantic detector for removed 10-K disclosures**
+- 📚 Deep dive interests: **Multi-modal AI**, **ML Interpretability**, **Agent memory + reflection**, **Computer Vision**, **Graph neural networks × LLMs**
+- 🛠️ I enjoy learning by shipping from hackathon builds to production-shaped side projects
+- 🌍 Always exploring how to apply tech to **compliance**, **finance**, and **accessibility**
 
 ---
 
