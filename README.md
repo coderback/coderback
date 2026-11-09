@@ -1,58 +1,45 @@
-<h1 align="center">Hey 👋 I'm Timothy</h1>
-<h3 align="center">CS Graduate • Software Engineer • Aspiring ML Researcher</h3>
+<h1 align="center">Timothy Oluwatobi Ojebiyi</h1>
+<p align="center">CS Graduate · Software Engineer · Aspiring ML Researcher</p>
+<p align="center"><b>Open to ML engineer, Software engineer and Quant developer roles</b></p>
 
 <p align="center">
-  <a href="https://timothyojebiyi.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/timothy-oluwatobi-ojebiyi/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:tobiojebiyi@gmail.com" target="_blank">📫 Email Me</a>
+  <a href="https://timothyojebiyi.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/timothy-oluwatobi-ojebiyi/">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0009-7786-8549">ORCID</a> ·
+  <a href="mailto:tobiojebiyi@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🧠 About Me
+Computer Science graduate from UWE Bristol (AI/ML specialisation) and founder of Rootlayer. I build and ship ML systems, implement papers, test their claims, and decide how a result will be judged before I see it: pre-registered hypotheses, leakage checks, and baselines a model has to beat.
 
-I'm a **Computer Science graduate from UWE Bristol**, passionate about building useful systems powered by **artificial intelligence** and **developer-centred design**. I thrive at the intersection of **machine learning**, **systems design**, and **problem solving**—building everything from tiny OS kernels to fine-tuning LLMs.
+### Research
 
-- 🔭 Currently building: **Agentic web compliance SaaS**, **graph embedding engine for financial-crime/risk modelling**, and **semantic detector for removed 10-K disclosures**
-- 📚 Deep dive interests: **Multi-modal AI**, **ML Interpretability**, **Agent memory + reflection**, **Computer Vision**, **Graph neural networks × LLMs**
-- 🛠️ I enjoy learning by shipping from hackathon builds to production-shaped side projects
-- 🌍 Always exploring how to apply tech to **compliance**, **finance**, and **accessibility**
+**News Timing Cannot Explain It: A Pre-Registered Replication of Zhang (2025)**<br>
+Working paper, 2026 · [DOI 10.5281/zenodo.24087562](https://doi.org/10.5281/zenodo.24087562) · [code + paper](https://github.com/coderback/zhang2025-replication)<br>
+A published FinBERT + XGBoost strategy reported Sharpe ratios of 4.6–5.9. In a pre-registered replication, none of 18 variants beats random-sign trading after costs.
 
----
+**Fair on Paper: What a Prop-Firm Challenge Is Worth, and Who Pays for It**<br>
+Working paper, 2026 · [DOI 10.5281/zenodo.23374897](https://doi.org/10.5281/zenodo.23374897) · [reproduction package](https://github.com/coderback/prop-challenge-pricing)<br>
+Prices a published contract on 20 years of intraday data, with 24 pre-registered hypotheses and the buyer's optimal policy found by backward induction.
 
-### 🛠️ Tech Stack
+### Built
 
-<div align="left">
+- **Rootlayer**: founder of an agentic web-compliance SaaS that audits sites for WCAG 2.2 AA accessibility and GDPR/EAA privacy
+- **Tubesense** ([live demo](https://tubesense-production.up.railway.app) · [repo](https://github.com/coderback/Tubesense)): places Tube trains to a median of ~2 m from phone sensors alone, then an agent drafts a cited evidence pack that a verifier checks. *Encode London Hackathon 2026*
+- **Thespis** ([live demo](https://thespis-production.up.railway.app) · [repo](https://github.com/coderback/Thespis)): NPCs with memory and beliefs that can be false, for game developers. *Cambridge × Arcade AI Hackathon 2026*
+- **Unsaid** ([repo](https://github.com/coderback/Unsaid)): semantic detection of risk disclosures removed from 10-K filings. It flagged hedging language Silicon Valley Bank dropped 14 days before it collapsed
 
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" height="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  
-  
-  <!-- Frontend / Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+### Currently
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-          
+- **GBE**: a graph embedding engine for financial-crime and risk modelling (GNNs, leakage-tested pipelines)
+- Member of the **Cohere Labs Open Science Community**
 
-  <!-- AI & ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="Tensorflow" />
+### Interests
 
-  <!-- DevOps / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+Graph neural networks · ML interpretability · generative models · agent memory · evaluating ML in finance honestly
 
----
+### Tools
 
-<p align="center">
-  <i>Thanks for stopping by ✨ Star a project, send a PR, or say hello!</i>
-</p>
+**ML:** Python · PyTorch · PyTorch Geometric · scikit-learn · XGBoost · Hugging Face · LaTeX<br>
+**Engineering:** TypeScript · React / Next.js · FastAPI · Django · PostgreSQL · Docker · C++
